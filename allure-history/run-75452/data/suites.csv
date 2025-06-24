@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8044","TC:50113 -Login with Admin and verify for school: 990","Google Chrome","Tue Jun 24 15:06:38 UTC 2025","passed","Tue Jun 24 15:06:46 UTC 2025","CA-Aeries Non-SSO Login with different target schools","Non-SSO-Login-tests/loginTestAeries.spec.ts","",""
+"","15880","TC:50113 -Login with Admin and verify for school: 994","Google Chrome","Tue Jun 24 15:06:02 UTC 2025","passed","Tue Jun 24 15:06:18 UTC 2025","CA-Aeries Non-SSO Login with different target schools","Non-SSO-Login-tests/loginTestAeries.spec.ts","",""
+"","8110","TC:50113 -Login with Admin and verify for school: 992","Google Chrome","Tue Jun 24 15:06:46 UTC 2025","passed","Tue Jun 24 15:06:54 UTC 2025","CA-Aeries Non-SSO Login with different target schools","Non-SSO-Login-tests/loginTestAeries.spec.ts","",""
+"","8080","TC:50113 -Login with Admin and verify for school: 894","Google Chrome","Tue Jun 24 15:06:54 UTC 2025","passed","Tue Jun 24 15:07:03 UTC 2025","CA-Aeries Non-SSO Login with different target schools","Non-SSO-Login-tests/loginTestAeries.spec.ts","",""

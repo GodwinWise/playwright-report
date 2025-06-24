@@ -1,0 +1,3 @@
+Reading school list from CSV...
+Running test for school: Screaming Eagle High School (994) (994)
+School_Name = Screaming Eagle High School
